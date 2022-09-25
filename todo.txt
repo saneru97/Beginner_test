@@ -1,0 +1,5 @@
+getup
+prepare for interview 
+sql
+git
+OOP
